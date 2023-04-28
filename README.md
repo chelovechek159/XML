@@ -32,22 +32,19 @@ or
     git add new.xml
     git commit -m "text"
     git push
-result
->https://github.com/chelovechek159/XML/blob/main/new.xml
+>[result](https://github.com/chelovechek159/XML/blob/main/new.xml)
 ### 9. Create file `preferences.xml`
     cat > prefernces.xml
 
 ### 10. Add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, country you would like to visit) to the `preferences.xml` file in XML format.
     vim preferences.xml
     add information in XML format
-result
->https://github.com/chelovechek159/XML/blob/main/preferences.xml
+>[result](https://github.com/chelovechek159/XML/blob/main/preferences.xml)
 
 ### 11. Create a file `skills.xml` add information about the skills that will be studied in the course in XML format
     cat > skills.xml
     add information in XML format
-result
->https://github.com/chelovechek159/XML/blob/main/skills.xml
+>[result](https://github.com/chelovechek159/XML/blob/main/skills.xml)
 ### 12. Make commit in one line
     git commit -am "text"
 or
@@ -73,7 +70,6 @@ or u can join 12 and 13
     write bug report in XML format
 ### 17. Make Commit changes (save) changes on the web interface
     click on the button [Commit changes]
-result
->https://github.com/chelovechek159/XML/blob/main/bug_report.xml
+>[result](https://github.com/chelovechek159/XML/blob/main/bug_report.xml)
 ### 18. Синхронизировать внешний и локальный репозиторий XML
     git pull
