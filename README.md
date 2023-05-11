@@ -71,5 +71,5 @@ or u can join 12 and 13
 ### 17. Make Commit changes (save) changes on the web interface
     click on the button [Commit changes]
 >[result](https://github.com/chelovechek159/XML/blob/main/bug_report.xml)
-### 18. Синхронизировать внешний и локальный репозиторий XML
+### 18. Synchronize external and local XML repository
     git pull
