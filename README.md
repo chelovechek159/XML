@@ -15,7 +15,7 @@ or
 
     cat > new.xml
     "control + c"
-### 4. Add file uder git
+### 4. Add file under git
     git add new.xml
 ### 5. Commit a file
     git commit -m "newXML"
