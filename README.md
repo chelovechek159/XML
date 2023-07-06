@@ -52,8 +52,9 @@ or
 ### 13. Send 2 files at once to an external repository
     git push
 or u can join 12 and 13 
-    git commit -am "text" && git push
-    git add . && git commit -m "text" && git push
+
+- git commit -am "text" && git push
+- git add . && git commit -m "text" && git push
 
 ### 14. On the web interface, create a file `bug_report.xml`
     add file 
