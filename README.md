@@ -24,8 +24,6 @@ or
     git push
 ### 7. Edit the contents of the `new.xml` file - write information about yourself (name, age, number of pets, future desired salary). Everything is written in XML format
     cat >> new.xml
-or
-
     add information in XML format
 
 ### 8. Push changes to an external repository
