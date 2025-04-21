@@ -11,7 +11,7 @@ ___
 ### 3. Inside local XML create file `new.xml`
     cd XML
     touch new.xml
-or    
+or
 
     cat > new.xml
     "control + c"
@@ -51,13 +51,13 @@ or
 
 ### 13. Send 2 files at once to an external repository
     git push
-or u can join 12 and 13 
+or u can join 12 and 13
 
 - git commit -am "text" && git push
 - git add . && git commit -m "text" && git push
 
 ### 14. On the web interface, create a file `bug_report.xml`
-    add file 
+    add file
     create new file
 
 ### 15. Make Commit changes (save) changes on the web interface
@@ -72,3 +72,5 @@ or u can join 12 and 13
 >[result](https://github.com/chelovechek159/XML/blob/main/bug_report.xml)
 ### 18. Synchronize external and local XML repository
     git pull
+
+#### new_info
