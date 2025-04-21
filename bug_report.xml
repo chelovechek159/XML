@@ -4,8 +4,8 @@
   <Environment>iPhone 13 (iOS 16.4.1 safari); Xiaomi Redmi Note 7 (Android 10, Chrome 112)</Environment>
   <Title>The images are narrowed when page width is less than 612 px in portrait screen orientation</Title>
   <Steps_to_reproduce>
-    1. Navigate to capital.com                               
-    2. Tap on [burger menu]                   
+    1. Navigate to capital.com
+    2. Tap on [burger menu]
     3. Tap on menu section [Education]
     4. Tap on menu item [CFD trading guide]
     5. Scroll down to the images
